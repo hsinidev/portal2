@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Portal2
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-HTML-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Portal2&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Portal2 Header Banner" />
+
+  <h1>🚀 Portal2</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-HTML-e34c26?style=for-the-badge" alt="Language: HTML" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/portal2"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Portal2** delivers a fast, responsive, and cross-platform browser experience built with **HTML** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `HTML`
@@ -32,79 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Portal2 - Play Online for Free
-
-## Overview
-Play Portal2 online for free. Unblocked and available on all devices. Experience the best Portal2 gameplay now!
-
-### Game Details & Guide
-Get Ready to Explore
-
-
-
-What is Portal 2?
-
-Portal 2 is a first-person puzzle game developed by Valve Corporation, released in 2011 for Microsoft Windows, Mac OS X, Linux, PlayStation 3, and Xbox 360. It is the sequel to the critically acclaimed game Portal (2007) and offers an immersive experience with innovative physics-based gameplay.
-
-
-How to Play
-
-To play Portal 2, you will need to navigate through challenging levels while using a device called a "portal gun" that can create portals to transport yourself or objects between two points in space. The game is designed for one player, using the keyboard and mouse controls. Here's a brief overview of how to control the portal gun:
-• Move your character left or right using the arrow keys.
-• Press the 'A' key to move forward.
-• Press the 'B' key to move backward.
-• Use the 'space' bar to activate the portal gun.
-
-
-Objective
-
-The objective of the game is to use the portal gun to solve challenging puzzles and progress through levels. You will need to manipulate objects, open doors, and escape from increasingly complex environments. The game's narrative revolves around the player character's quest for knowledge and self-discovery.
-
-
-Tips and Tricks for Success
-
-• Use the environment to your advantage: portals can be used to move around the level quickly or create new paths.
-• Experiment with different portal placements to solve puzzles and escape from danger.
-• Pay attention to power-ups and collectibles, as they often hold valuable secrets or upgrades.
-• Manage your sanity wisely, as excessive use of the portal gun can lead to a decrease in health.
-
-
-Why You Should Play It
-
-Portal 2 offers an engaging and challenging gameplay experience that is both intellectually stimulating and entertaining. The game's innovative physics-based mechanics make it a standout title in the puzzle genre. Additionally, Portal 2 features a rich narrative with well-developed characters and a thought-provoking storyline.
-
-
-Additional Features
-
-• High-quality graphics and sound design create an immersive atmosphere.
-• Each level is designed to be unique and challenging, offering countless hours of gameplay.
-• The game has received widespread critical acclaim for its originality and innovative gameplay mechanics.
-
-
-Conclusion
-
-
-Portal 2 is a must-play game that offers a unique blend of puzzle-solving, exploration, and creativity. With its engaging gameplay mechanics, rich narrative, and stunning graphics, it is an excellent choice for anyone looking for a challenging and entertaining gaming experience.
-
-## Technical Specifications
-- **Technology**: Flash (Emulated by Ruffle)
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
